@@ -2,7 +2,6 @@
 #### Author: Jillian Berman [Linkedin](https://www.linkedin.com/in/sarajillianberman/) 
 ### Contents 
 - [Problem Statement](#Problem-Statement)
-- [Data](#Data)
 - [Executive Summary](#Executive-Summary)
 - [Limitations](#Limitations)
 - [Conclusion & Recommendations](#Conclusion-&-Recommendations)
