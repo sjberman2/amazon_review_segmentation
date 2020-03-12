@@ -1,4 +1,4 @@
-# Preforming Topic Modeling on Amazon Review Data to Inform Customer Segmentation
+# Preforming Topic Modeling on Amazon Review Data
 #### Author: Jillian Berman [Linkedin](https://www.linkedin.com/in/sarajillianberman/) 
 ### Contents 
 - [Problem Statement](#Problem-Statement)
